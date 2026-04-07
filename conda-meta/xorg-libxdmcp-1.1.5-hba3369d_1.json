@@ -1,0 +1,69 @@
+{
+  "name": "xorg-libxdmcp",
+  "version": "1.1.5",
+  "build": "hba3369d_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "xorg-libxdmcp-1.1.5-hba3369d_1.conda",
+  "md5": "a7c03e38aa9c0e84d41881b9236eacfb",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/xorg-libxdmcp-1.1.5-hba3369d_1.conda",
+  "sha256": "366b8ae202c3b48958f0b8784bbfdc37243d3ee1b1cd4b8e76c10abe41fa258b",
+  "depends": [
+    "libgcc >=14",
+    "libwinpthread >=12.0.0.r4.gg4f2fc60ca",
+    "ucrt >=10.0.20348.0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1762977015000,
+  "size": 70691,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\bruno\\anaconda3\\pkgs\\xorg-libxdmcp-1.1.5-hba3369d_1.conda",
+  "extracted_package_dir": "C:\\Users\\bruno\\anaconda3\\pkgs\\xorg-libxdmcp-1.1.5-hba3369d_1",
+  "files": [
+    "Library/bin/msys-Xdmcp-6.dll",
+    "Library/include/X11/Xdmcp.h",
+    "Library/lib/libXdmcp.dll.a",
+    "Library/lib/pkgconfig/xdmcp.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/msys-Xdmcp-6.dll",
+        "path_type": "hardlink",
+        "sha256": "ceae03c7b121e1d25e077542004d89a9ac61b60e21eddd1c1cfc804d9e25c053",
+        "size_in_bytes": 198727,
+        "sha256_in_prefix": "ceae03c7b121e1d25e077542004d89a9ac61b60e21eddd1c1cfc804d9e25c053"
+      },
+      {
+        "_path": "Library/include/X11/Xdmcp.h",
+        "path_type": "hardlink",
+        "sha256": "7fd3eb99f92b1c566c87cab744ccbb85a4530152eeace73dbb493952a4f40477",
+        "size_in_bytes": 8535,
+        "sha256_in_prefix": "7fd3eb99f92b1c566c87cab744ccbb85a4530152eeace73dbb493952a4f40477"
+      },
+      {
+        "_path": "Library/lib/libXdmcp.dll.a",
+        "path_type": "hardlink",
+        "sha256": "461a66ba28059b11b1db7990986570050e71c52b652b102b44f98227950a3c28",
+        "size_in_bytes": 28708,
+        "sha256_in_prefix": "461a66ba28059b11b1db7990986570050e71c52b652b102b44f98227950a3c28"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/xdmcp.pc",
+        "prefix_placeholder": "D:/bld/xorg-libxdmcp_1762976482119/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "8fa6c9f43ebc830ee4fd24f5bc6b7547c8ae32ee5d159716c3456bba7cd4980b",
+        "size_in_bytes": 285,
+        "sha256_in_prefix": "7e9db3a57eebffbb8a1ee35fb0def017322678c4b6d1a8e8465bd2ce45e5b173"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\bruno\\anaconda3\\pkgs\\xorg-libxdmcp-1.1.5-hba3369d_1",
+    "type": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "python_abi",
+  "version": "3.9",
+  "build": "2_cp39",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "python_abi-3.9-2_cp39.tar.bz2",
+  "md5": "757068981fb2f97d0cadbba9ae6ae191",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/python_abi-3.9-2_cp39.tar.bz2",
+  "sha256": "c0aadb0df52257e5d31551711a04d97a201432e928d6b32518034cf6f1baa911",
+  "depends": [
+    "python 3.9.*"
+  ],
+  "constrains": [
+    "pypy <0a0"
+  ],
+  "license": "BSD-3-Clause",
+  "timestamp": 1624472428000,
+  "size": 4505,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\bruno\\anaconda3\\pkgs\\python_abi-3.9-2_cp39.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\bruno\\anaconda3\\pkgs\\python_abi-3.9-2_cp39",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\bruno\\anaconda3\\pkgs\\python_abi-3.9-2_cp39",
+    "type": 1
+  }
+}

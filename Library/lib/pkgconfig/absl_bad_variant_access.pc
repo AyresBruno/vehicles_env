@@ -1,0 +1,12 @@
+prefix=C:/Users/bruno/anaconda3/envs/vehicles_env/Library
+exec_prefix=${prefix}
+libdir=C:/Users/bruno/anaconda3/envs/vehicles_env/Library/lib
+includedir=C:/Users/bruno/anaconda3/envs/vehicles_env/Library/include
+
+Name: absl_bad_variant_access
+Description: Abseil bad_variant_access library
+URL: https://abseil.io/
+Version: 20250512
+Requires:
+Libs: -L${libdir}  
+Cflags: -I${includedir}

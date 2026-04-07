@@ -1,0 +1,109 @@
+{
+  "name": "lcms2",
+  "version": "2.18",
+  "build": "hf2c6c5f_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "lcms2-2.18-hf2c6c5f_0.conda",
+  "md5": "b6c68d6b829b044cd17a41e0a8a23ca1",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/lcms2-2.18-hf2c6c5f_0.conda",
+  "sha256": "7eeb18c5c86db146b62da66d9e8b0e753a52987f9134a494309588bbeceddf28",
+  "depends": [
+    "libjpeg-turbo >=3.1.2,<4.0a0",
+    "libtiff >=4.7.1,<4.8.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1768184858000,
+  "size": 522238,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\bruno\\anaconda3\\pkgs\\lcms2-2.18-hf2c6c5f_0.conda",
+  "extracted_package_dir": "C:\\Users\\bruno\\anaconda3\\pkgs\\lcms2-2.18-hf2c6c5f_0",
+  "files": [
+    "Library/bin/jpgicc.exe",
+    "Library/bin/lcms2.dll",
+    "Library/bin/linkicc.exe",
+    "Library/bin/psicc.exe",
+    "Library/bin/tificc.exe",
+    "Library/bin/transicc.exe",
+    "Library/include/lcms2.h",
+    "Library/include/lcms2_plugin.h",
+    "Library/lib/lcms2.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/jpgicc.exe",
+        "path_type": "hardlink",
+        "sha256": "2fd7afa9cc95074831333196e923d105fab1105f950b847441b94c199f13ee6c",
+        "size_in_bytes": 268800,
+        "sha256_in_prefix": "2fd7afa9cc95074831333196e923d105fab1105f950b847441b94c199f13ee6c"
+      },
+      {
+        "_path": "Library/bin/lcms2.dll",
+        "path_type": "hardlink",
+        "sha256": "96c50db7e7a547d6be1264a6f970992c89e6f5c102c11b7a1ff2410fe630a486",
+        "size_in_bytes": 580096,
+        "sha256_in_prefix": "96c50db7e7a547d6be1264a6f970992c89e6f5c102c11b7a1ff2410fe630a486"
+      },
+      {
+        "_path": "Library/bin/linkicc.exe",
+        "path_type": "hardlink",
+        "sha256": "1f7b1fe57f99cd16146e2b8c88e8f6cfb55cfe16f65253a69f874a8eebcd68eb",
+        "size_in_bytes": 449536,
+        "sha256_in_prefix": "1f7b1fe57f99cd16146e2b8c88e8f6cfb55cfe16f65253a69f874a8eebcd68eb"
+      },
+      {
+        "_path": "Library/bin/psicc.exe",
+        "path_type": "hardlink",
+        "sha256": "faff451015ccd0a09ffd5e264f40a787935bf396a1d49401c3a12bdd0dd9749e",
+        "size_in_bytes": 456704,
+        "sha256_in_prefix": "faff451015ccd0a09ffd5e264f40a787935bf396a1d49401c3a12bdd0dd9749e"
+      },
+      {
+        "_path": "Library/bin/tificc.exe",
+        "path_type": "hardlink",
+        "sha256": "9107421c144663cafd1d83cfc5af07f63ce47ffe778ba29c67d3e6391f393db6",
+        "size_in_bytes": 288256,
+        "sha256_in_prefix": "9107421c144663cafd1d83cfc5af07f63ce47ffe778ba29c67d3e6391f393db6"
+      },
+      {
+        "_path": "Library/bin/transicc.exe",
+        "path_type": "hardlink",
+        "sha256": "0cf7cf8db266553153fd7602b543e60ddfdb523e072e4cb285f48983eabb067c",
+        "size_in_bytes": 494592,
+        "sha256_in_prefix": "0cf7cf8db266553153fd7602b543e60ddfdb523e072e4cb285f48983eabb067c"
+      },
+      {
+        "_path": "Library/include/lcms2.h",
+        "path_type": "hardlink",
+        "sha256": "475ed5f5d3843b9058e92810774e97aa34602f5038398ae9d6c17ba6d118e53b",
+        "size_in_bytes": 107254,
+        "sha256_in_prefix": "475ed5f5d3843b9058e92810774e97aa34602f5038398ae9d6c17ba6d118e53b"
+      },
+      {
+        "_path": "Library/include/lcms2_plugin.h",
+        "path_type": "hardlink",
+        "sha256": "f822480420e2237efce5b9cb4f64e5db2cf299e2e58e4e0a25fc899a61a3cc63",
+        "size_in_bytes": 31557,
+        "sha256_in_prefix": "f822480420e2237efce5b9cb4f64e5db2cf299e2e58e4e0a25fc899a61a3cc63"
+      },
+      {
+        "_path": "Library/lib/lcms2.lib",
+        "path_type": "hardlink",
+        "sha256": "24e35e38218bfa41f0a92e1dd861e4656b07ccc418548bfe9815ccb2914cfc11",
+        "size_in_bytes": 84654,
+        "sha256_in_prefix": "24e35e38218bfa41f0a92e1dd861e4656b07ccc418548bfe9815ccb2914cfc11"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\bruno\\anaconda3\\pkgs\\lcms2-2.18-hf2c6c5f_0",
+    "type": 1
+  }
+}

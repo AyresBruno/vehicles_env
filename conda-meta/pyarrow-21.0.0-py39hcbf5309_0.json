@@ -1,0 +1,37 @@
+{
+  "name": "pyarrow",
+  "version": "21.0.0",
+  "build": "py39hcbf5309_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "pyarrow-21.0.0-py39hcbf5309_0.conda",
+  "md5": "43e5e6bd7a194ff5611409b8303550c6",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/pyarrow-21.0.0-py39hcbf5309_0.conda",
+  "sha256": "91d42b4711a3c82162f25d651ab0ece00d0c2177b4c9e2e1e81a6681e4fb9877",
+  "depends": [
+    "libarrow-acero 21.0.0.*",
+    "libarrow-dataset 21.0.0.*",
+    "libarrow-substrait 21.0.0.*",
+    "libparquet 21.0.0.*",
+    "pyarrow-core 21.0.0 *_0_*",
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "timestamp": 1753371948000,
+  "size": 26513,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\bruno\\anaconda3\\pkgs\\pyarrow-21.0.0-py39hcbf5309_0.conda",
+  "extracted_package_dir": "C:\\Users\\bruno\\anaconda3\\pkgs\\pyarrow-21.0.0-py39hcbf5309_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\bruno\\anaconda3\\pkgs\\pyarrow-21.0.0-py39hcbf5309_0",
+    "type": 1
+  }
+}

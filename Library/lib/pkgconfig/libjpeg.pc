@@ -1,0 +1,10 @@
+prefix=C:/Users/bruno/anaconda3/envs/vehicles_env/Library
+exec_prefix=C:/Users/bruno/anaconda3/envs/vehicles_env/Library
+libdir=C:/Users/bruno/anaconda3/envs/vehicles_env/Library/lib
+includedir=C:/Users/bruno/anaconda3/envs/vehicles_env/Library/include
+
+Name: libjpeg
+Description: A SIMD-accelerated JPEG codec that provides the libjpeg API
+Version: 3.1.2
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}

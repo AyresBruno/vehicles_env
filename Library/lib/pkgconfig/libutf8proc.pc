@@ -1,0 +1,10 @@
+prefix=C:/Users/bruno/anaconda3/envs/vehicles_env/Library
+exec_prefix=C:/Users/bruno/anaconda3/envs/vehicles_env/Library/bin
+libdir=C:/Users/bruno/anaconda3/envs/vehicles_env/Library/lib
+includedir=C:/Users/bruno/anaconda3/envs/vehicles_env/Library/include
+
+Name: libutf8proc
+Description: UTF8 processing
+Version: 2.11.3
+Libs: -L${libdir} -lutf8proc
+Cflags: -I${includedir} -DUTF8PROC_EXPORTS

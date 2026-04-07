@@ -1,0 +1,100 @@
+{
+  "name": "aws-c-compression",
+  "version": "0.3.1",
+  "build": "hcb3a2da_9",
+  "build_number": 9,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "aws-c-compression-0.3.1-hcb3a2da_9.conda",
+  "md5": "0888dbe9e883582d138ec6221f5482d6",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/aws-c-compression-0.3.1-hcb3a2da_9.conda",
+  "sha256": "ff1046d67709960859adfa5793391a2d233bb432ec7429069fcfab5b643827df",
+  "depends": [
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208",
+    "ucrt >=10.0.20348.0",
+    "aws-c-common >=0.12.6,<0.12.7.0a0"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "timestamp": 1764593733000,
+  "size": 23136,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\bruno\\anaconda3\\pkgs\\aws-c-compression-0.3.1-hcb3a2da_9.conda",
+  "extracted_package_dir": "C:\\Users\\bruno\\anaconda3\\pkgs\\aws-c-compression-0.3.1-hcb3a2da_9",
+  "files": [
+    "Library/bin/aws-c-compression.dll",
+    "Library/include/aws/compression/compression.h",
+    "Library/include/aws/compression/exports.h",
+    "Library/include/aws/compression/huffman.h",
+    "Library/lib/aws-c-compression.lib",
+    "Library/lib/cmake/aws-c-compression/aws-c-compression-config.cmake",
+    "Library/lib/cmake/aws-c-compression/shared/aws-c-compression-targets-release.cmake",
+    "Library/lib/cmake/aws-c-compression/shared/aws-c-compression-targets.cmake"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/aws-c-compression.dll",
+        "path_type": "hardlink",
+        "sha256": "ef15aff74d0f5df76fc39298aabb49c29881e405b58728e7a557d6e59a6a0e0f",
+        "size_in_bytes": 15872,
+        "sha256_in_prefix": "ef15aff74d0f5df76fc39298aabb49c29881e405b58728e7a557d6e59a6a0e0f"
+      },
+      {
+        "_path": "Library/include/aws/compression/compression.h",
+        "path_type": "hardlink",
+        "sha256": "4a7e0eba0e35676fbacfb6c1d08ada087a21ec4b3a4245a75c95b72ad23e8aa3",
+        "size_in_bytes": 1128,
+        "sha256_in_prefix": "4a7e0eba0e35676fbacfb6c1d08ada087a21ec4b3a4245a75c95b72ad23e8aa3"
+      },
+      {
+        "_path": "Library/include/aws/compression/exports.h",
+        "path_type": "hardlink",
+        "sha256": "8851c4f63053a1d90b17eb29ea4bb477cdfcb315090d06933b18e9710b85dba8",
+        "size_in_bytes": 1120,
+        "sha256_in_prefix": "8851c4f63053a1d90b17eb29ea4bb477cdfcb315090d06933b18e9710b85dba8"
+      },
+      {
+        "_path": "Library/include/aws/compression/huffman.h",
+        "path_type": "hardlink",
+        "sha256": "a0ae03aa45aa8049d704105d6ccaf52342e94f279c04b5616a9416e5a408c43e",
+        "size_in_bytes": 4752,
+        "sha256_in_prefix": "a0ae03aa45aa8049d704105d6ccaf52342e94f279c04b5616a9416e5a408c43e"
+      },
+      {
+        "_path": "Library/lib/aws-c-compression.lib",
+        "path_type": "hardlink",
+        "sha256": "f1930195fe14c6afff60dfd1096b84bd4f1c2f0a5cfe990bf2ca178ef1e27005",
+        "size_in_bytes": 4906,
+        "sha256_in_prefix": "f1930195fe14c6afff60dfd1096b84bd4f1c2f0a5cfe990bf2ca178ef1e27005"
+      },
+      {
+        "_path": "Library/lib/cmake/aws-c-compression/aws-c-compression-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "9c3028bb8d1a556c5d11fe4e5cb969c2bc73fdbf3fb02a96cc5fb0de69a3c503",
+        "size_in_bytes": 598,
+        "sha256_in_prefix": "9c3028bb8d1a556c5d11fe4e5cb969c2bc73fdbf3fb02a96cc5fb0de69a3c503"
+      },
+      {
+        "_path": "Library/lib/cmake/aws-c-compression/shared/aws-c-compression-targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "0630dacb582a437764c250340b04d4754e172188a9e88911cd0c228dabcf8dc6",
+        "size_in_bytes": 990,
+        "sha256_in_prefix": "0630dacb582a437764c250340b04d4754e172188a9e88911cd0c228dabcf8dc6"
+      },
+      {
+        "_path": "Library/lib/cmake/aws-c-compression/shared/aws-c-compression-targets.cmake",
+        "path_type": "hardlink",
+        "sha256": "cd65c7d203adeebe2d25c67884f3cb55a8fabdac8ea140218a7d86773dc23dfa",
+        "size_in_bytes": 4451,
+        "sha256_in_prefix": "cd65c7d203adeebe2d25c67884f3cb55a8fabdac8ea140218a7d86773dc23dfa"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\bruno\\anaconda3\\pkgs\\aws-c-compression-0.3.1-hcb3a2da_9",
+    "type": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "libfreetype",
+  "version": "2.14.2",
+  "build": "h57928b3_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "libfreetype-2.14.2-h57928b3_0.conda",
+  "md5": "153d52fd0e4ba2a5bd5bb4f4afa41417",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libfreetype-2.14.2-h57928b3_0.conda",
+  "sha256": "427c3072b311e65bd3eae3fcb78f6847b15b2dbb173a8546424de56550b2abfb",
+  "depends": [
+    "libfreetype6 >=2.14.2"
+  ],
+  "constrains": [],
+  "license": "GPL-2.0-only OR FTL",
+  "timestamp": 1772756167000,
+  "size": 8404,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\bruno\\anaconda3\\pkgs\\libfreetype-2.14.2-h57928b3_0.conda",
+  "extracted_package_dir": "C:\\Users\\bruno\\anaconda3\\pkgs\\libfreetype-2.14.2-h57928b3_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\bruno\\anaconda3\\pkgs\\libfreetype-2.14.2-h57928b3_0",
+    "type": 1
+  }
+}

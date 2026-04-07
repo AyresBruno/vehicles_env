@@ -1,0 +1,95 @@
+{
+  "name": "libarrow-acero",
+  "version": "21.0.0",
+  "build": "h7d8d6a5_17_cpu",
+  "build_number": 17,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "libarrow-acero-21.0.0-h7d8d6a5_17_cpu.conda",
+  "md5": "c002255e5c4a1ae4beecf98257f66bb4",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libarrow-acero-21.0.0-h7d8d6a5_17_cpu.conda",
+  "sha256": "1a3fb5fe5752b1ffce6e67c4bc7e322a1f652f91ab39ef3337572f3e476d69ba",
+  "depends": [
+    "libarrow 21.0.0 hfcfc620_17_cpu",
+    "libarrow-compute 21.0.0 h2db994a_17_cpu",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "timestamp": 1770434681000,
+  "size": 459177,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\bruno\\anaconda3\\pkgs\\libarrow-acero-21.0.0-h7d8d6a5_17_cpu.conda",
+  "extracted_package_dir": "C:\\Users\\bruno\\anaconda3\\pkgs\\libarrow-acero-21.0.0-h7d8d6a5_17_cpu",
+  "files": [
+    "Library/bin/arrow_acero.dll",
+    "Library/lib/arrow_acero.lib",
+    "Library/lib/cmake/ArrowAcero/ArrowAceroConfig.cmake",
+    "Library/lib/cmake/ArrowAcero/ArrowAceroConfigVersion.cmake",
+    "Library/lib/cmake/ArrowAcero/ArrowAceroTargets-release.cmake",
+    "Library/lib/cmake/ArrowAcero/ArrowAceroTargets.cmake",
+    "Library/lib/pkgconfig/arrow-acero.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/arrow_acero.dll",
+        "path_type": "hardlink",
+        "sha256": "45e0e8b4562978f7637f5597a76af9b44cc5c76fb02ad655102d026336deb274",
+        "size_in_bytes": 1207808,
+        "sha256_in_prefix": "45e0e8b4562978f7637f5597a76af9b44cc5c76fb02ad655102d026336deb274"
+      },
+      {
+        "_path": "Library/lib/arrow_acero.lib",
+        "path_type": "hardlink",
+        "sha256": "c0808cffcc84fdd9747a11c7bc641e400c37f202857978e4510455d18d095d57",
+        "size_in_bytes": 287988,
+        "sha256_in_prefix": "c0808cffcc84fdd9747a11c7bc641e400c37f202857978e4510455d18d095d57"
+      },
+      {
+        "_path": "Library/lib/cmake/ArrowAcero/ArrowAceroConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "2c7c70480250daeca7c13deb1c6931544b22352f415fde9437d1ae2c9b5ed23a",
+        "size_in_bytes": 2522,
+        "sha256_in_prefix": "2c7c70480250daeca7c13deb1c6931544b22352f415fde9437d1ae2c9b5ed23a"
+      },
+      {
+        "_path": "Library/lib/cmake/ArrowAcero/ArrowAceroConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "2615c61906248bb0814e668e0d1c50fd7b428683774777f8d7df49ef0b926788",
+        "size_in_bytes": 2830,
+        "sha256_in_prefix": "2615c61906248bb0814e668e0d1c50fd7b428683774777f8d7df49ef0b926788"
+      },
+      {
+        "_path": "Library/lib/cmake/ArrowAcero/ArrowAceroTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "bb33a6d1f38031b4e59a356195f7811c1aea6be5147e6c8d50162143d68e41bd",
+        "size_in_bytes": 1006,
+        "sha256_in_prefix": "bb33a6d1f38031b4e59a356195f7811c1aea6be5147e6c8d50162143d68e41bd"
+      },
+      {
+        "_path": "Library/lib/cmake/ArrowAcero/ArrowAceroTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "81923628ebd9577cb2e21fc9b87c5e070b19c3565b965e08f9ee4f922cd8c76a",
+        "size_in_bytes": 4378,
+        "sha256_in_prefix": "81923628ebd9577cb2e21fc9b87c5e070b19c3565b965e08f9ee4f922cd8c76a"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/arrow-acero.pc",
+        "prefix_placeholder": "C:/bld/apache-arrow_1770429083712/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "6cd0853a83e01b8f19552909def243122afb9589c6d5592b27e9e3634d310a3d",
+        "size_in_bytes": 1091,
+        "sha256_in_prefix": "22737b95ad39039401be6b037b2793d1b36375345f8dba0a62b506a724a1284e"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\bruno\\anaconda3\\pkgs\\libarrow-acero-21.0.0-h7d8d6a5_17_cpu",
+    "type": 1
+  }
+}
